@@ -1,2 +1,2 @@
 # Colored-text-in-python
-#in support of pride month
+in support of pride month
